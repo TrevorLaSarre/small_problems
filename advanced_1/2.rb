@@ -9,4 +9,3 @@ def star(n)
 end
 
 star(51)
-
